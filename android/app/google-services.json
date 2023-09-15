@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500740472179",
+    "project_id": "map-camera-app",
+    "storage_bucket": "map-camera-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500740472179:android:41b5a8d69b3953546ad906",
+        "android_client_info": {
+          "package_name": "com.example.map_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500740472179-eqo7nhc59n214ltm3712bomqeloibgi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDZ96rMghe5U8iXn5Y1QpFoIfKaCFGyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500740472179-eqo7nhc59n214ltm3712bomqeloibgi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
